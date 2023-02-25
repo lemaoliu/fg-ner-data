@@ -18,7 +18,7 @@ If you use the data for research, please cite the following paper:
   year={2021}
 }
 
-@article{jing2021fine,
+@inproceedings{jing2021fine,
   title={Fine-grained Entity Typing without Knowledge Base},
   author={Qian, Jing and Liu, Yibin and Liu, Lemao and Li, Yangming and Jiang, Haiyun and Zhang, Haisong and Shi, Shuming},
   journal={Proceedings of EMNLP},
