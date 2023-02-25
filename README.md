@@ -3,12 +3,12 @@ This repo releases the fine-grained ner dataset used in the ACL 2021 demo paper 
 
 ## Data Description
 There are three files which are annotated by three different annotators, and please see their detailed information in Section 4.1 in the demo paper.
-Note that the fine-grained ontology are described in the [repo](https://github.com/lemaoliu/fet-data) for the EMNLP21 paper entitled "Fine-grained Entity Typing without Knowledge Base". 
+Note that the fine-grained ontology is described in the [repo](https://github.com/lemaoliu/fet-data) for the EMNLP21 paper entitled "Fine-grained Entity Typing without Knowledge Base". 
 
 
 
 ## Citation ##
-If you use the data for research, please cite the following paper:
+If you use the data for research, please consider to cite the following papers:
 ```
 @inproceedings{liu2021texsmart,
   title={Texsmart: A system for enhanced natural language understanding},
